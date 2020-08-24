@@ -44,3 +44,13 @@
     background: #000000;
     color: #fff;
   }
+
+a:link {
+  text-decoration: none;
+  color: hotpink;
+}
+
+a:visited {
+  color: hotpink;
+  text-decoration: none;
+}
